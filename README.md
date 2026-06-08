@@ -1,6 +1,6 @@
 # Hi there, I'm Sumit! 👋 
 
-I am a passionate Full-Stack Developer and avid Competitive Programmer who loves building robust applications and cracking complex algorithmic challenges.
+I am a passionate Full-Stack(MERN) Developer and avid Competitive Programmer who loves building robust applications and cracking complex algorithmic challenges.
 
 ---
 
@@ -15,7 +15,7 @@ I am a passionate Full-Stack Developer and avid Competitive Programmer who loves
 ### 💻 Competitive Programming & Stats
 I have solved **700+ problems** across various coding platforms. 
 
-* **Codeforces:** Peak Rating: 1342 | 
+* **Codeforces:** Peak Rating: 1342  
 * **LeetCode:** Peak Rating: 1851
 * **CodeChef:** Peak Rating: 1616
 
