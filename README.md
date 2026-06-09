@@ -50,8 +50,4 @@ Problem-Solving • Collaboration • Technical Communication • Adaptability �
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=student-sumit04&show_icons=true&theme=dark" alt="Sumit's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-sumit04&layout=compact&theme=dark" alt="Top Languages" width="40%"/>
-</p>
+
