@@ -16,7 +16,7 @@ I am a passionate Full-Stack(MERN) Developer and avid Competitive Programmer who
 I have solved **700+ problems** across various coding platforms. 
 
 * **Codeforces:** Peak Rating: 1342  
-* **LeetCode:** Peak Rating: 1851
+* **LeetCode:** Peak Rating: 1883
 * **CodeChef:** Peak Rating: 1616
 
 🚀 **Connect with my coding profiles:**
