@@ -42,6 +42,7 @@ I have solved **700+ problems** across various coding platforms.
 * **Operating Systems:** Studied process management, memory allocation, and file system concepts.
 * **Computer Networks:** Deep understanding of the OSI Model & core protocols (`HTTP/S`, `TCP/IP`, `SSL`, `FTP`, `ARP`, `UDP`, `DHCP`).
 * **Software Engineering:** Applied software development life cycle (SDLC) concepts, design patterns, and testing methodologies.
+* **Machine Learning:** Studied supervised and unsupervised learning, feature engineering, model evaluation, and classification, regression, and clustering algorithms using `Scikit-learn`.
 
 ---
 
