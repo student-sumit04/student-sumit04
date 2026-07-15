@@ -1,7 +1,20 @@
-# Hi there, I'm Sumit! 👋 
+# Hi there, I'm Sumit! 👋
 
-I am a passionate Full-Stack(MERN) Developer and avid Competitive Programmer who loves building robust applications and cracking complex algorithmic challenges.
+🎓 Final-year undergraduate in **Computer Science & Engineering** at **National Institute of Technology (NIT) Patna**.
 
+💻 I am a passionate **Full-Stack (MERN) Developer** and an avid **Competitive Programmer** who enjoys building scalable web applications and solving complex algorithmic challenges.
+
+🤖 Beyond web development, I have a strong interest in **Machine Learning** and **Generative AI**, where I enjoy developing intelligent applications that solve real-world problems using modern AI technologies.
+
+🚀 I love exploring new technologies, building impactful projects, and continuously improving my problem-solving and software engineering skills.
+
+🌱 Currently focused on:
+- Full-Stack Development (MERN & Next.js)
+- Machine Learning & Generative AI
+- Data Structures & Algorithms
+- System Design & Backend Development
+
+⚡ Always eager to learn, collaborate, and contribute to meaningful open-source and real-world projects.
 ---
 
 ### 🏆 Key Achievements
