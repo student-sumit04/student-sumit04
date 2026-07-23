@@ -29,7 +29,7 @@
 I have solved **700+ problems** across various coding platforms. 
 
 * **Codeforces:** Peak Rating: 1342  
-* **LeetCode:** Peak Rating: 1883
+* **LeetCode:** Peak Rating: 1887
 * **CodeChef:** Peak Rating: 1616
 
 🚀 **Connect with my coding profiles:**
